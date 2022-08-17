@@ -1,1 +1,2 @@
 first line second scenario
+When the file already exists and to create a new repository and then clone it
